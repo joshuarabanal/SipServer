@@ -13,7 +13,6 @@ import SIP.socket.accounts.SocketHolder;
 import android.util.Log;
 import basicServer.ProcessRequest;
 import basicServer.Request;
-import requetsHandler.HandleSingleRequest;
 
 public class RequestProcessor   {
 	public ArrayList<SocketHolder> accounts = new ArrayList<SocketHolder>();

@@ -15,7 +15,7 @@ public class ServerSock extends basicServer.ServerSock{
 			trustStorePass = "test12345";
 
 	public ServerSock(ProcessRequest arg0, File arg1) {
-		super(arg0, arg1);
+		super(arg0, arg1, null);
 		// TODO Auto-generated constructor stub
 	}
 	
